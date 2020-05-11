@@ -113,4 +113,4 @@ def game_hash
   }
 end
 
-game_hash
+puts game_hash
